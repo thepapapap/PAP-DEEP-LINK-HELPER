@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/thepapapap.github.io/PAP-DEEP-LINK-HELPER/static/css/main.834f928e.css",
-    "main.js": "/thepapapap.github.io/PAP-DEEP-LINK-HELPER/static/js/main.9de247ef.js",
-    "static/js/787.e0608e14.chunk.js": "/thepapapap.github.io/PAP-DEEP-LINK-HELPER/static/js/787.e0608e14.chunk.js",
-    "index.html": "/thepapapap.github.io/PAP-DEEP-LINK-HELPER/index.html",
-    "main.834f928e.css.map": "/thepapapap.github.io/PAP-DEEP-LINK-HELPER/static/css/main.834f928e.css.map",
-    "main.9de247ef.js.map": "/thepapapap.github.io/PAP-DEEP-LINK-HELPER/static/js/main.9de247ef.js.map",
-    "787.e0608e14.chunk.js.map": "/thepapapap.github.io/PAP-DEEP-LINK-HELPER/static/js/787.e0608e14.chunk.js.map"
+    "main.css": "/PAP-DEEP-LINK-HELPER/static/css/main.834f928e.css",
+    "main.js": "/PAP-DEEP-LINK-HELPER/static/js/main.ca7b6b33.js",
+    "static/js/787.e0608e14.chunk.js": "/PAP-DEEP-LINK-HELPER/static/js/787.e0608e14.chunk.js",
+    "index.html": "/PAP-DEEP-LINK-HELPER/index.html",
+    "main.834f928e.css.map": "/PAP-DEEP-LINK-HELPER/static/css/main.834f928e.css.map",
+    "main.ca7b6b33.js.map": "/PAP-DEEP-LINK-HELPER/static/js/main.ca7b6b33.js.map",
+    "787.e0608e14.chunk.js.map": "/PAP-DEEP-LINK-HELPER/static/js/787.e0608e14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.834f928e.css",
-    "static/js/main.9de247ef.js"
+    "static/js/main.ca7b6b33.js"
   ]
 }
