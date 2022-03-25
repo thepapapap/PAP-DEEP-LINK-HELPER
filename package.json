@@ -1,7 +1,7 @@
 {
   "name": "pap-deep-link",
   "version": "0.1.0",
-  "homepage": "https://github.com/thepapapap.github.io/PAP-DEEP-LINK-HELPER",
+  "homepage": "https://thepapapap.github.io/PAP-DEEP-LINK-HELPER/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
